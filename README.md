@@ -16,7 +16,7 @@ This faithful port allows developers to harness the full potential of LangChain'
 You can install the package via composer:
 
 ```bash
-composer require kambo/langchain
+composer require stanrevko/langchain
 ```
 
 ## 🤔 What is this?
